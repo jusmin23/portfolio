@@ -21,7 +21,7 @@ body{
     box-shadow: 0 10px 20px black;
     background-size: cover;
     font-family: 'Abel', sans-serif;
-    background-image: url(ferns.jpg);
+    background-image: url(ferns1.jpg);
 }
 .gradient{
     height: 100%;
@@ -43,6 +43,7 @@ h2{
 .details{
     font-style: italic;
     color: rgb(185, 206, 224);
+    text-transform:uppercase; 
 }
 .icons{
     display: flex;
